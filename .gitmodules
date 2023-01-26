@@ -1,6 +1,7 @@
 [submodule "db"]
 	path = db
 	url = git@github.com:lyndon-gabriel/TestDB.git
+	fetchRecurseSubmodules = true
 [submodule "tool"]
 	path = tool
 	url = git@github.com:lyndon-gabriel/TestTool.git
