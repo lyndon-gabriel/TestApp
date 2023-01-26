@@ -1,6 +1,6 @@
 [submodule "db"]
 	path = db
-	url = git@github.com:mdsol/rws-configurable-datasets.git
+	url = git@github.com:lyndon-gabriel/TestDB.git
 [submodule "tool"]
 	path = tool
 	url = git@github.com:lyndon-gabriel/TestTool.git
